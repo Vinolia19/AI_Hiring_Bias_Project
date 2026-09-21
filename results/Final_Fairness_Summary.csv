@@ -1,0 +1,8 @@
+Metric,Value
+Actual Selection Rate Difference,0.10269183168316831
+Actual Selection Rate Ratio,0.7211861559139785
+Logistic Prediction Difference,0.12184405940594062
+Logistic Prediction Ratio,0.6422601744186046
+Random Forest Prediction Difference,0.09390470297029702
+Random Forest Prediction Ratio,0.6838541666666667
+ANOVA p-value,0.6332814489860568

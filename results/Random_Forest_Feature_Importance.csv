@@ -1,0 +1,21 @@
+Feature,Importance
+num__coding_test_score,0.13855618989625038
+num__technical_skill_score,0.13262465960250355
+num__aptitude_test_score,0.13228279110446897
+num__github_activity_score,0.11606301792365385
+num__communication_score,0.09205211561234283
+num__years_experience,0.08939754563852582
+num__expected_salary,0.07755555969118545
+num__age,0.04506161919753565
+num__project_count,0.04194361871383645
+num__employment_gap_months,0.03561812122136651
+num__certifications_count,0.03009959188392782
+cat__university_tier_Tier 1,0.009907280497061266
+cat__university_tier_Tier 3,0.009472810659201308
+cat__gender_Female,0.008684713079133372
+cat__gender_Male,0.00836372066971339
+cat__education_level_Bachelor's,0.008323748151745435
+cat__education_level_Master's,0.0077928825840709965
+cat__university_tier_Tier 2,0.007695045831033015
+cat__education_level_PhD,0.005082767795396766
+cat__gender_Non-Binary,0.003422200247047208
